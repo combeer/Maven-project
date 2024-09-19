@@ -16,7 +16,7 @@ public class Greeter {
    // contructeur par défaut
   }
 
-   public void doSomeThing() {
+   public void doSomeThing2() {
    // do no thing yet !
   }
  
